@@ -98,11 +98,11 @@ Example item (shortened):
   "title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
   "url": "https://www.youtube.com/watch?v=rayrrXot17M",
   "thumbnail": "https://i.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
-  "views": "928.4K views",
-  "published": "6 hours ago",
-  "viewCount": 928431,
-  "likeCount": 21668,
-  "commentCount": 1302,
+  "views": "1.1M views",
+  "published": "7 hours ago",
+  "viewCount": 1055375,
+  "likeCount": 23572,
+  "commentCount": 1370,
   "publishedAt": "2026-09-29T01:01:35Z",
   "duration": "PT14M20S",
   "durationSeconds": 860,
@@ -179,3 +179,4 @@ Tested with n8n 2.40 (self-hosted).
 
 - 0.1.0: Initial release
 - 0.1.1: First release published from GitHub Actions with an npm provenance statement
+- 0.1.2: Node category renamed to Marketing & Content, the name n8n's verification scanner accepts
